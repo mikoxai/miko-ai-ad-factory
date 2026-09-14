@@ -1,0 +1,9 @@
+[project]
+name = "miko-ai-ad-factory"
+version = "0.4.0"
+description = "Local helpers for the chat-led Miko AI Ad Factory"
+requires-python = ">=3.11"
+dependencies = ["keyring==25.6.0"]
+
+[tool.uv]
+package = false
